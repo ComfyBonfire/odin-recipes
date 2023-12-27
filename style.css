@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "amadeus";
+    src: url('./extra/Amadeus-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+  
+  * {
+    font-family: "amadeus";
+    text-align: center;
+    background-color: rgb(from rgb(255, 180, 109) r g b);
+    font-size: 28px;
+  }
+
+  h1 {
+    font-size: 70px;
+  }
