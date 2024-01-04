@@ -11,8 +11,34 @@
     text-align: center;
     background-color: rgb(from rgb(255, 180, 109) r g b);
     font-size: 28px;
+    box-sizing: border-box;
+    margin: 20px;
   }
 
   h1 {
     font-size: 70px;
+  }
+
+  #gif-alt {
+    width: 600px;
+    height: 420px;
+  }
+
+  .flexed {
+    display: flex;
+    box-sizing: border-box;
+    flex: 1;
+    justify-content:center;
+    flex-direction: column;
+  }
+
+  .mainflexed {
+    display: flex;
+    box-sizing: border-box;
+    flex: 1;
+    justify-content:center;
+  }
+
+  .recipe {
+    display: flex;
   }
