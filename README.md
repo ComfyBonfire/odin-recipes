@@ -10,5 +10,4 @@ Basic HTML:
   - Links
   - Images
 
-[odin recipes](https://comfybonfire.github.io/odin-recipes/)
-			   
+Click [here](https://comfybonfire.github.io/odin-recipes/)
