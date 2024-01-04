@@ -10,4 +10,4 @@ Basic HTML:
   - Links
   - Images
 
-~~O~~ Link: http://comfybonfire.github.io/ToP-Landing-Page/
+~~O~~ Link: http://comfybonfire.github.io/odin-recipes/
